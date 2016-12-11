@@ -6,10 +6,8 @@ window.onload = function (e) {
       I stay committed to push code that gets you twisted,,,,
       If you break my license, you’ll find yourself in crisis,
       I'll hide like a dot directory
-      and start calculating trajectories
+      calculating trajectories
       that will leave you headless
-
-
       `);
   window.speechSynthesis.speak(msg);
 }
